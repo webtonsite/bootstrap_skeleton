@@ -10,6 +10,9 @@
 			case 'home':
 				$page_file = 'pages/home.php';
 				break;
+			case 'pages':
+				$page_file = 'pages/pages.php';
+				break;					
 			case 'aboutus':
 				$page_file = 'pages/aboutus.php';
 				break;	

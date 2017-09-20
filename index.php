@@ -1,5 +1,6 @@
 <?php
-	$home_url = 'http://localhost/asimple/bootstrap_skeleton/index.php';
+
+	include_once "config/app.php"; //config
 
 	include_once "header.php";
 	include_once "body.php";

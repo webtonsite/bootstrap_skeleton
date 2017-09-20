@@ -11,6 +11,7 @@
     <div class="collapse navbar-collapse" id="myNavbar">
       <ul class="nav navbar-nav">
         <li class="active"><a href="<?=$home_url?>">Home</a></li>
+		<li><a href="<?=$home_url.'?page=pages'?>">Pages</a></li>
         <li><a href="<?=$home_url.'?page=aboutus'?>">About Us</a></li>
       </ul>
       <ul class="nav navbar-nav navbar-right">
